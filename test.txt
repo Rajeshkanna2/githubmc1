@@ -1,1 +1,2 @@
 create test server
+create test server2
